@@ -1,0 +1,7 @@
+[user]
+    name = Rico
+    email = rico2maldo@gmail.com
+[core]
+    editor = code --wait
+[init]
+    defaultBranch = main
