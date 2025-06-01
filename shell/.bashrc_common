@@ -1,0 +1,10 @@
+# Aliases utiles
+alias ll='ls -la'
+alias ..='cd ..'
+alias projects='cd ~/projects'
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit'
+
+# Variables
+export EDITOR=code
